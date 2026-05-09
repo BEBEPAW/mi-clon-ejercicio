@@ -1,1 +1,1 @@
-Funcion adicional
+Función adicional
